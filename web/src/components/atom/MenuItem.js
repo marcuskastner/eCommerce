@@ -32,7 +32,7 @@ function MenuItem() {
   return (
     <>
       <motion.li
-        tw="list-none text-[24px] px-4"
+        tw="list-none text-[24px] px-4 mb-2"
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.97 }}
         variants={item}
