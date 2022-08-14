@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react"
 import { GlobalStyles } from "twin.macro"
 import NavBar from "./molecule/NavBar"
 import { motion } from "framer-motion"
+import Seo from "./seo"
 
 const Layout = ({ children }) => {
   const [hasLoaded, setHasLoaded] = useState(false)
@@ -19,6 +20,7 @@ const Layout = ({ children }) => {
   return (
     <>
       <GlobalStyles />
+      <Seo />
       <div style={{ width: "100%", display: "flex", justifyContent: "center" }}>
         <motion.div
           initial={"hidden"}

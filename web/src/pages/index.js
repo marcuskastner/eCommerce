@@ -13,7 +13,7 @@ const IndexPage = () => {
     <>
       <div tw="relative mb-10 ">
         {/* twin does not work on Gatsby Components */}
-        <GatsbyImage image={HeroImage} alt="main index image" />
+        <img src={HeroImage} alt="main index image" />
         <Hero />
       </div>
     </>

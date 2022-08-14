@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
   siteMetadata: {
     title: `Free Climb`,
-    description: `The webs number one climbing related shop`,
+    description: `The web's number one climbing related shop`,
     author: `Marcus Kastner`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
