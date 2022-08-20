@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-This site could be used as a general template for any ecommerce application. It uses Gatsby on the front end and Sanity on the back end to pull all the product information. Making it extremely easy for clients to add or edit items in their store. Furthermore, the site is fully integrated with stripe to securely handle payments.
+This site could be used as a general template for any ecommerce application. It uses Gatsby on the front end and Sanity on the back end to pull all the product information. This makes it extremely easy for clients to add or edit items in their store. Furthermore, the site is fully integrated with stripe to securely handle payments.
 
 ## Technologies
 Project is created with:
@@ -19,7 +19,7 @@ Project is created with:
 * State Context
 * Gatsby
 * Sanity
-* Bootstrap
+* Tailwind
 * Stripe
 
 ## What I Learned
