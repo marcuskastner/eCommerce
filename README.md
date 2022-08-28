@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-This site could be used as a general template for any ecommerce application. It uses Gatsby on the front end and Sanity on the back end to pull all the product information. This makes it extremely easy for clients to add or edit items in their store. Furthermore, the site is fully integrated with stripe to securely handle payments.
+This site could be used as a general template for any ecommerce application. It uses Gatsby on the front end and Sanity on the back end to pull all product information making it extremely easy for clients to add or edit items in their store. Additionally, the site is fully integrated with Stripe to securely handle payments. Lastly, I personally developed all UI components using Adobe XD.
 
 ## Technologies
 Project is created with:
